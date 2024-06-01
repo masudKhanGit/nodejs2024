@@ -1,0 +1,35 @@
+[
+  {
+    "id": "0",
+    "productName": "Fresh Avocados",
+    "image": "🥑",
+    "form": "bangladesh",
+    "nutrients": "Vitamin B, Vitamin K",
+    "quantity": "4 🥑",
+    "price": "6",
+    "organic": true,
+    "description": "The avocado, alligator pear or avocado pear (Persea americana) is a medium-sized, evergreen tree in the laurel family (Lauraceae). It is native to the Americas and was first domesticated in Mesoamerica more than 5,000 years ago. Then as now it was prized for its large and unusually oily fruit.[3] The tree likely originated in the highlands bridging south-central Mexico and Guatemala.[4][5][6] Avocado trees have a native growth range from Mexico to Costa Rica.[7] Its fruit, sometimes also referred to as an alligator pear or avocado pear, is botanically a large berry containing a single large seed.[8] Sequencing of its genome showed that the evolution of avocados was shaped by polyploidy events and that commercial varieties have an hybrid origin.[9] Avocado trees are partly self-pollinating, and are often propagated through grafting to maintain consistent fruit output.[10] Avocados are presently cultivated in the tropical and Mediterranean climates of many countries.[4] Mexico is the world's leading producer of avocados as of 2020, supplying nearly 30% of the global harvest in that year.[11]"
+  },
+  {
+    "id": "1",
+    "productName": "Fresh Banana",
+    "image": "🍌",
+    "form": "bangladesh",
+    "nutrients": "Vitamin B, Vitamin C",
+    "quantity": "18 🍌",
+    "price": "2",
+    "organic": true,
+    "description": "A banana is an elongated, edible fruit – botanically a berry[1] – produced by several kinds of large herbaceous flowering plants in the genus Musa. In some countries, cooking bananas are called plantains, distinguishing them from dessert bananas. The fruit is variable in size, color, and firmness, but is usually elongated and curved, with soft flesh rich in starch covered with a rind, which may have a variety of colors when ripe. The fruits grow upward in clusters near the top of the plant. Almost all modern edible seedless (parthenocarp) bananas come from two wild species – Musa acuminata and Musa balbisiana. Most cultivated bananas are M. acuminata, M. balbisiana, or hybrids of the two."
+  },
+  {
+    "id": "2",
+    "productName": "Fresh Apple",
+    "image": "🍎",
+    "form": "india",
+    "nutrients": "Vitamin A, Vitamin C",
+    "quantity": "40 🍎",
+    "price": "3",
+    "organic": true,
+    "description": "An apple is a round, edible fruit produced by an apple tree (Malus spp., among them the domestic or orchard apple; Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found. Apples have been grown for thousands of years in Eurasia and were introduced to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek, and European Christian tradition."
+  }
+]
